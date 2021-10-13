@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm Keith Murphy
+-😄 I'm Keith Murphy
 
 -💻 JavaScript, HTML, CSS
 
