@@ -6,6 +6,8 @@
 
 -MERN stack proficient!!
 
--💻 JavaScript, HTML, CSS
+-💻 JavaScript for everything!!!
+
+-HTML, CSS, (Python Curious)
 
 -💡React, Node, MongoDB, SQL 
