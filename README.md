@@ -22,7 +22,7 @@
 
 ![icons8-npm-48](https://user-images.githubusercontent.com/85463607/152628991-82f57504-d114-4ce7-a92e-81720db5e800.png) NPM
     ![icons8-git-48](https://user-images.githubusercontent.com/85463607/152629007-5ea9dcdf-ca8f-4f2b-b75a-02771b1dc58c.png)Git
-    ![icons8-docker-48](https://user-images.githubusercontent.com/85463607/152628996-8e718645-128a-424b-84bb-fee6e1e65811.png) Docker
+       ![icons8-docker-48](https://user-images.githubusercontent.com/85463607/152628996-8e718645-128a-424b-84bb-fee6e1e65811.png) Docker
 
 
 
