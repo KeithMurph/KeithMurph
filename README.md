@@ -10,7 +10,8 @@
 
 
 
-![icons8-javascript-48](https://user-images.githubusercontent.com/85463607/152628742-c9f86790-b238-4b3b-989c-f7f3f9edfd79.png) JavaScript
+![icons8-javascript-48](https://user-images.githubusercontent.com/85463607/152628742-c9f86790-b238-4b3b-989c-f7f3f9edfd79.png) JavaScript ----------------------------------![icons8-typescript-48](https://user-images.githubusercontent.com/85463607/152629120-511574ca-a82b-4362-ac69-261c36b2cd8e.png) TypeScript
+
 
 ![icons8-css3-48](https://user-images.githubusercontent.com/85463607/152628903-5eaec91e-c63b-4dd1-8126-54f67184edb4.png) CSS
 
