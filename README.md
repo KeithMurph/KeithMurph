@@ -3,10 +3,11 @@
 -😄 I'm Keith Murphy
 
 -Full Stack Web Developer 
+-💻 JavaScript for everything!!!
 
 -MERN stack proficient!!
 
--💻 JavaScript for everything!!!
+
 
 
 ![icons8-javascript-48](https://user-images.githubusercontent.com/85463607/152628742-c9f86790-b238-4b3b-989c-f7f3f9edfd79.png) JavaScript
