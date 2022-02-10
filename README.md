@@ -8,6 +8,8 @@
 
 -MERN stack proficient!!
 
+-Looking for my first job as an entry level Developer.
+
 
 
 
