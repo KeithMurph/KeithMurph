@@ -4,7 +4,10 @@
 
 -Full Stack Web Developer 
 
+-Front-end focused!
+
 -💻 JavaScript for everything!!!
+
 
 -MERN stack proficient!!
 
